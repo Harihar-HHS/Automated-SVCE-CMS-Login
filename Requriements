@@ -1,0 +1,5 @@
+1) Python
+2) Selenium for python
+3) Mozilla Firefox driver - GeckoDriver
+
+-> GeckoDriver must be inside Python\Scripts of the corresponding path
